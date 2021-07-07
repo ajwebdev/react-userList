@@ -36,3 +36,18 @@
     transform: rotate(360deg);
   }
 }
+
+.grey-light{
+  background-color: #697279;
+}
+.background-cyan{
+  background-color: cyan;
+}
+
+.main-content .badge-alignment{
+  position: absolute;
+    margin-left: -20px;
+    z-index: 89009;
+    margin-top: -62px;
+
+}
